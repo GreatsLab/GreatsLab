@@ -1,18 +1,19 @@
-<h1 align="center">Hey, I'm De GRRAT 👋</h1>
+<h1 align="center">Hi, I'm De Great 👋</h1>
+<h3 align="center">Cybersecurity Engineer &nbsp;•&nbsp; Network Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Engineer;Network+Engineer;Founder+of+AuroxHost;Always+learning%2C+always+building&font=Fira+Code&center=true&width=440&height=45&color=31b7e9&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Engineer;Network+Engineer;I+secure+systems+%26+networks;Always+learning%2C+always+building&font=Fira+Code&center=true&width=440&height=45&color=31b7e9&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://auroxhost.com">
-    <img src="https://img.shields.io/badge/Web-auroxhost.com-1b4de4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  <a href="https://x.com/KernelSentry">
+    <img src="https://img.shields.io/badge/X-%40KernelSentry-06122b?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://x.com/AuroxHost">
-    <img src="https://img.shields.io/badge/X-%40AuroxHost-06122b?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:hello@auroxhost.com">
+  <a href="mailto:chibuezechimnadindu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-31b7e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/GreatsLab">
+    <img src="https://img.shields.io/badge/GitHub-GreatsLab-1b4de4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -20,21 +21,21 @@
 
 ## 🛡️ About Me
 
-- 🔐 Cybersecurity & network engineering — server hardening, DNS, firewalls & infrastructure security
-- 🚀 Founder of **[AuroxHost](https://auroxhost.com)** — hosting infrastructure across 🇳🇱 🇩🇪 🇺🇸 🇸🇬 since 2020
-- 🐧 Daily tools: Linux servers, Apache/Nginx, Cloudflare, DirectAdmin & WHMCS automation
+- 🔐 Cybersecurity & network engineer — focused on system hardening, network defense & secure infrastructure
+- 🧠 I like understanding how things break so I can secure them properly
 - 📚 Currently studying for the **ISC2 Certified in Cybersecurity (CC)**
-- 🌱 Interested in network defense, secure infrastructure & automation
-- 📫 Reach me: **hello@auroxhost.com**
+- 🛠️ On the side I run **[AuroxHost](https://auroxhost.com)**, a web-hosting company — so I work with live servers, DNS & infrastructure daily
+- 🤝 Open to collaborating on security & networking tools
+- 📫 Reach me at **chibuezechimnadindu@gmail.com**
 
 ## 🎓 Certifications & Learning
 
 <p>
   <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(In_Progress)-31b7e9?style=for-the-badge&logo=isc2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-Cybersecurity_Specialization-1b4de4?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-Cybersecurity_Track-1b4de4?style=for-the-badge&logo=coursera&logoColor=white"/>
 </p>
 
-> _Add new badges here as you earn them — CompTIA Security+, Network+, CCNA, etc. Each one is a strong signal to visitors._
+> _Add each new badge as you earn it — CompTIA Security+, Network+, CCNA. Every one is a strong signal to visitors._
 
 ## 🧰 Tech Stack
 
@@ -66,15 +67,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **AuroxHost** | Multi-region web hosting platform — shared, VPS & dedicated infrastructure with WHMCS automation | [🔗 Live](https://auroxhost.com) |
-| **WetinTrend** | Nigerian news, blog & media platform with multi-channel social presence | [🔗 Live](https://wetintrend.com) |
-| **_your-repo_** | _Short one-line description of what it does and the problem it solves_ | [🔗 Repo](#) |
+| **_flagship-repo_** | _Your main security/network tool — one line on what it does & the problem it solves_ | [Repo](#) |
+| **_second-repo_** | _A second project worth showing_ | [Repo](#) |
+| **AuroxHost** _(side project)_ | Web-hosting platform I run — multi-region servers, DNS & WHMCS automation | [Live](https://auroxhost.com) |
 
-> _Replace the third row with a real repo. Pinning 4–6 repos on your profile matters even more than this table — see the checklist below._
+> _Fill the top two rows with the projects below, then **pin** them on your profile — pinned repos are what visitors judge first._
 
 ## 📊 GitHub Stats
 
@@ -103,4 +104,4 @@
   <img src="https://komarev.com/ghpvc/?username=GreatsLab&style=for-the-badge&color=1b4de4" alt="Profile views"/>
 </p>
 
-<p align="center"><i>⚡ Building secure infrastructure, one commit at a time.</i></p>
+<p align="center"><i>⚡ Securing systems and networks, one commit at a time.</i></p>
