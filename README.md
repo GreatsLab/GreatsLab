@@ -139,7 +139,7 @@ open_to:    Network, cloud and cybersecurity roles — full-time, contract or re
 <a href="https://www.linkedin.com/in/chimnadindu"><img src="https://img.shields.io/badge/LinkedIn-chimnadindu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/JustDeGreat"><img src="https://img.shields.io/badge/X-@JustDeGreat-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.instagram.com/justdegreat"><img src="https://img.shields.io/badge/Instagram-@justdegreat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.facebook.com/Jetsdeegreat"><img src="https://img.shields.io/badge/Facebook-Jetsdeegreat-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.facebook.com/justdeegreat"><img src="https://img.shields.io/badge/Facebook-justdeegreat-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <br/>
 <a href="https://www.tiktok.com/@just.degreat"><img src="https://img.shields.io/badge/TikTok-@just.degreat-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 <a href="https://bsky.app/profile/justdegreat.bsky.social"><img src="https://img.shields.io/badge/Bluesky-justdegreat-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
